@@ -13,6 +13,6 @@ As a DevOps, SysOps, and Systems Administrator with a strong background in netwo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,linux,git,github,grafana,prometheus,aws,docker,mysql,mongo,nginx" />
+    <img src="https://skillicons.dev/icons?i=py,bash,linux,git,github,grafana,prometheus,aws,docker,kubernetes,mysql,mongo,nginx" />
   </a>
 </p>
