@@ -9,7 +9,7 @@
 </p>
 
 
-As a DevOps, SysOps, and Systems Administrator with a strong background in network engineering, I am a perpetual student who is passionate about cloud platforms, process automation, and technology in general. In my spare time, I enjoy pursuing self-development and exploring new technologies. With a keen eye for detail and a commitment to delivering high-quality results, I am dedicated to driving continuous improvement and achieving excellence in all that I do.
+As a DevOps, SysOps, and Platform Engineer with a strong background in network engineering, I am a perpetual student who is passionate about cloud platforms, process automation, and technology in general. In my spare time, I enjoy pursuing self-development and exploring new technologies. With a keen eye for detail and a commitment to delivering high-quality results, I am dedicated to driving continuous improvement and achieving excellence in all that I do.
 
 <p align="center">
   <a href="https://skillicons.dev">
